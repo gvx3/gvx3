@@ -1,4 +1,4 @@
-## Hi, I'm Minh Vũ 👋
+## Xin chào, I'm Minh Vũ 👋
 
 Currently doing Master in Communication system network. Trying to learn everyday.
 <!--

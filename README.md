@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Minh Vũ 👋
 
+Currently doing Master in Communication system network. Trying to learn everyday.
 <!--
 **gvx3/gvx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
